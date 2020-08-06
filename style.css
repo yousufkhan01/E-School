@@ -1,0 +1,213 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+ 
+}
+ 
+/*button section started from here*/
+.logo img{
+  width: 120px;
+  margin: 0px 0px 0px 40px;
+}
+.navbar-nav li a{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+.navbar-nav li{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+.navbar-default{
+  background-color: rgb(189, 243, 188);
+}
+/*button section is end here*/
+
+
+/*main picture section is started from here*/
+.main-picture-section{
+  background-color: rgb(189, 243, 188);
+  width: 82%;
+  margin: 0 auto;
+}
+.main-picture-section-image-sub-div img{
+  width: 500px;
+  padding: 30px 20px 50px 0px;
+}
+.main-picture-section-heading-div{
+  padding: 80px 20px 0px 30px;
+}
+.main-button-section{
+  border: 2px solid rgb(39, 1, 1);
+  border-radius: 10px;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(8, 71, 27);
+  padding: 10px 20px 10px 20px;
+}
+/*main picture section is end here*/
+
+
+
+
+
+
+/*four-items-section-book-section is started from here*/
+.four-items-section-book-item-one{
+ padding: 10px 10px 10px 10px;
+ background-color: rgb(189, 243, 188);
+}
+.four-items-section-book-item-one img{
+  width: 200px;
+  padding: 10px 10px 10px 40px;
+}
+.four-items-section-book-item-one h3{
+  text-align: center;
+}
+.four-items-section-book-item-one p{
+  text-align: center;
+}
+.four-items-section-book-item-two{
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(189, 243, 188);
+}
+.four-items-section-book-item-two img{
+  width: 240px;
+  padding: 10px 10px 10px 40px;
+}
+.four-items-section-book-item-two h3{
+  text-align: center;
+}
+.four-items-section-book-item-two p{
+  text-align: center;
+}
+.four-items-section-book-item-third{
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(189, 243, 188);
+}
+.four-items-section-book-item-third img{
+  width: 240px;
+  padding: 10px 10px 10px 40px;
+}
+.four-items-section-book-item-third h3{
+  text-align: center;
+}
+.four-items-section-book-item-third p{
+  text-align: center;
+}
+.four-items-section-book-item-four{
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(189, 243, 188);
+}
+.four-items-section-book-item-four img{
+  width: 230px;
+  padding: 10px 10px 10px 40px;
+}
+.four-items-section-book-item-four h3{
+  text-align: center;
+}
+.four-items-section-book-item-four p{
+  text-align: center;
+}
+/*four-items-section-book-section is end here*/
+
+
+
+
+
+
+/*online class items are started from here*/
+.online-courses-items-heading{
+  color: #000;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+}
+.online-courses-items-first-div{
+  background-color: rgb(189, 243, 188);
+}
+.online-courses-items-first-div img{
+ width: 200px;
+ padding: 20px 10px 20px 20px;
+}
+.online-courses-items-first-div button{
+  background-color: rgb(2, 2, 37);
+  color: rgb(255, 255, 255);
+  padding: 10px 30px 10px 30px;
+  border: 2px solid rgb(109, 73, 5);
+  border-radius: 10px;
+}
+.online-courses-items-first-left-div{
+  width: 60%;
+  float: left;
+  background-color: rgb(189, 243, 188);
+}
+.online-courses-items-first-right-div{
+  width: 40%;
+  float: right;
+  background-color: rgb(189, 243, 188);
+}
+/*online class items is end here*/
+
+
+
+
+
+
+/*tastimonial section is started from here*/
+header{
+  max-width:80%;
+  background-color: rgb(189, 243, 188);
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.profile_img{
+  width: 150px;
+  height: 180px;
+  border: 3px solid white;
+  border-radius: 50%;
+  float: left;
+}
+
+
+.header_bio{
+  float: left;
+  padding: 10px 10px 10px 70px;
+}
+
+
+/*tastimonial section is end here*/
+
+
+
+
+
+
+
+footer{
+  background-color: black;
+  max-width:80%;
+  margin: 0 auto;
+}
+
+.footer-section-div{
+  background-color: black;
+  color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
